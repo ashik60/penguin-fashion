@@ -1,0 +1,36 @@
+body {
+  font-family: "Open Sans", sans-serif;
+  color: #363958;
+}
+header,
+footer {
+  background-color: #fffbf0;
+}
+h1,
+h3,
+h5,
+h6 {
+  font-weight: 800;
+}
+/* .logo {
+  width: 250px;
+} */
+.card img {
+  width: 250px;
+  height: 280px;
+}
+.buy-btn {
+  background-color: #94ae2f;
+  border: 1px solid #94ae2f;
+  color: white;
+  padding: 5px 10px;
+  text-decoration: none;
+  border-radius: 5px;
+  font-weight: normal;
+}
+.buy-btn:hover {
+  color: white;
+}
+header a {
+  font-weight: bold;
+}
